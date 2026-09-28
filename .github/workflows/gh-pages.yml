@@ -5,12 +5,17 @@ on:
     branches: [main]
   workflow_dispatch:
 
+permissions:
+  contents: write
+
 jobs:
   deploy:
     runs-on: ubuntu-latest
 
     steps:
       - uses: actions/checkout@v4
+        with:
+          fetch-depth: 0
 
       - name: Set up Python
         uses: actions/setup-python@v5
@@ -24,11 +29,9 @@ jobs:
 
       - name: Configure git
         run: |
-          git config --global user.email "claude@anthropic.com"
-          git config --global user.name "Claude Code"
+          git config user.email "claude@anthropic.com"
+          git config user.name "Claude Code"
 
       - name: Build and deploy
-        env:
-          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
         run: |
-          mkdocs gh-deploy --force
+          mkdocs gh-deploy --force --verbose
