@@ -31,8 +31,6 @@ Laaditut ratkaisut vastaavat suoraan toimeksiantajan tarpeeseen erottua vetovoim
 
 # Kehitetyt konseptit - yhteenveto
 
-Design thinking -prosessin tuloksena tiimi määritteli kolme toisiaan tukevaa konseptia:
-
 ## Asiakasymmärrys: Lähihoitaja Pirjo
 
 Kaikki kehitetyt ratkaisukonsernit pohjautuvat asiakastutkimukseen ja sen perusteella luotuun kohderyhmäprofiiliin:
@@ -41,6 +39,8 @@ Kaikki kehitetyt ratkaisukonsernit pohjautuvat asiakastutkimukseen ja sen perust
 * **Motiivit:** Merkityksellinen ja mielekäs työ, hyvä palkkaus, sosiaalinen ja kannustava työyhteisö, hyvää johtaminen sekä puolisolle löytyvät työllistymismahdollisuudet ja monipuoliset vapaa-ajan palvelut.
 * **Tavoitteet:** Vakituinen työpaikka, oma koti ja tasapainoinen perhearki.
 * **Kipupisteet:** Tukiverkostojen etäisyys, julkisen liikenteen rajoitteet, työn kuormittavuus sekä työn ja vapaa-ajan yhteensovittaminen.
+
+**Design thinking -prosessin tuloksena tiimi määritteli kolme toisiaan tukevaa konseptia.**
 
 ---
 
