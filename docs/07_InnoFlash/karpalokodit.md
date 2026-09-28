@@ -1,18 +1,39 @@
-# Projektin esittely – Karpalokodit
+# Mikä ihmeen InnoFlash?
 
-**Kurssi:** JAMK InnoFlash 2022 (ZZPP0740-3044)  
-**Teema:** Konseptointi-ideat  
-**Tiimi:** Tiimi 28  
+InnoFlash on nykyisin viisi kertaa vuodessa järjestettävä Jamk Future Factory -kokonaisuuteen kuuluva opintojakso, jossa ensimmäisen vuoden opiskelijat ideoivat ratkaisuja monialaisissa opiskelijatiimeissä organisaatioiden ja yritysten todellisiin kehittämishaasteisiin.
+
+## Mitä opitaan?
+
+- Työskentelyyn kuuluu sekamuotoinen ideointi että systemaattinen lähestyminen
+- Monialainen tiimityö tuottaa parempia ratkaisuja kuin yksinomaan oma osaaminen
+- Nopea protottypointi ja testaus auttavat kasvamaan ideoista todellisia ratkaisuja
+
+## Opiskelijan rooli
+
+Opiskelijana toimitsin Ideoi-vaiheen tiiminä, jossa kehitin useita ratkaisuja ongelmaan, jota ei vielä ollut täysin muotoiltu. Opiskelin, että paras ratkaisu on usein se, joka yhdistää näkyvän tarjoajan tarpeen piiloon olevaan haasteeseen.
 
 ---
 
+# **Projektin esittely – Karpalokodit Oy**
+
 ## Tausta ja tavoite
 
-Tiimi 28 kehitti InnoFlash-prosessissa konseptointi-ideoita toimeksiantajalleen **Karpalokodit**. Projektin keskeisenä haasteena oli **toimeksiantajan tunnettavuuden lisääminen** sekä myönteisen työnantajakuvan vahvistaminen uutta henkilöstöä houkuteltaessa.
+Tiimimme 28 kehitti InnoFlash-prosessissa konseptointi-ideoita toimeksiantajalleen Karpalokodit Oy:lle. Projektin keskeisenä haasteena oli toimeksiantajan tunnettavuuden lisääminen sekä myönteisen työnantajakuvan vahvistaminen uutta henkilöstöä houkuteltaessa.
 
-Laaditut ratkaisut vastaavat suoraan toimeksiantajan tarpeeseen erottua vetovoimaisena työnantajana ja paikallisena toimijana[cite: 2]. Tunnettavuuden lisäämisessä huomioitiin niin viestintä- ja markkinointikanavat, paikalliset yhteistyöverkostot kuin paikkakunnan tarjoamat kokonaisvaltaiset asumis- ja vapaa-ajan mahdollisuudet.
-
+Karpalokodit Oy tarjoaa tehostettua palveluasumista sekä hoiva- ja asumispalveluja pääasiassa ikäihmisille ja erityisryhmille.
 **[Karpalokodit.fi](https://www.karpalokodit.fi/)**
+
+Laaditut ratkaisut vastaavat suoraan toimeksiantajan tarpeeseen erottua vetovoimaisena työnantajana ja paikallisena toimijana. Tunnettavuuden lisäämisessä huomioitiin niin viestintä- ja markkinointikanavat, paikalliset yhteistyöverkostot kuin paikkakunnan tarjoamat kokonaisvaltaiset asumis- ja vapaa-ajan mahdollisuudet.
+
+---
+
+**Kurssi:** JAMK InnoFlash 2022 (ZZPP0740-3044)  
+**Teema:** Konseptointi-ideat  
+
+|Opiskelijat tiimi 28 | | |
+| :--- | :--- | :--- |
+| Noora Seppälä | Salli Saimovaara | Kristian Heino |
+| Jenni Kortelainen | Sanna Kettunen | Mikko Pohjola |
 
 ---
 
@@ -31,7 +52,7 @@ Kaikki kehitetyt ratkaisukonsernit pohjautuvat asiakastutkimukseen ja sen perust
 
 Design thinking -prosessin tuloksena tiimi määritteli kolme toisiaan tukevaa konseptia:
 
-### 1. Kotisivujen päivittäminen (Uskottavuus & Saavutettavuus)
+## 1. Kotisivujen päivittäminen (Uskottavuus & Saavutettavuus)
 
 **Ratkaisu:** Nykyaikaiset ja houkuttelevat kotisivut rakentavat ammattimaista kuvaa ja madaltavat kynnystä tutustua Karpalokoteihin.
 
@@ -44,22 +65,24 @@ Design thinking -prosessin tuloksena tiimi määritteli kolme toisiaan tukevaa k
 
 **Resurssit:** Kotisivurungon toteutus ulkoistetaan ammattilaiselle, mutta säännöllinen päivitys koulutetaan omalle henkilökunnalle vastuutehtäväpalkkiolla huomioiden työaika.
 
-### 2. Markkinointi ja yhteistyöverkostot (Näkyvyys & Verkostoituminen)
+## 2. Markkinointi ja yhteistyöverkostot (Näkyvyys & Verkostoituminen)
 
 **Ratkaisu:** Lisätään Karpalokotien ja samalla koko paikkakunnan tunnettavuutta monikanavaisesti.
 
 **Toimenpiteet:**
+
   * Yhteisrekrytointi ja verkostoituminen paikallisten yritysten ja toimijoiden kanssa.
   * Oppilaitosyhteistyö (oppilaitosvierailut ja mainonta).
   * Osallistuminen alan tapahtumiin, messuille ja asiantuntijapaneeleihin.
 
 **Resurssit:** Henkilöstölle myönnetään vastuutehtäväpalkkio edustamisesta ja näkyvyydestä. Kustannuksia jaetaan kunnan kanssa ja hankkeeseen haetaan ELY-keskuksen rahoitusta.
 
-### 3. Sosiaalisen median hyödyntäminen (Utopistinen / Nuorekas vetovoima)
+## 3. Sosiaalisen median hyödyntäminen (Utopistinen / Nuorekas vetovoima)
 
 **Ratkaisu:** Tavoitetaan nuoremmat alan ammattilaiset, opiskelijat ja tulevat asukkaat visuaalisella ja helposti lähestyttävällä sisällöllä.
 
 **Toimenpiteet:**
+
   * Aktiivinen läsnäolo sosiaalisessa mediassa (mm. Instagram).
   * Arjen toiminnan, avoimien työpaikkojen ja tapahtumien esittely.
   * Työntekijöiden ja harjoittelijoiden osallistaminen sisällöntuotantoon.
@@ -78,4 +101,4 @@ Projekti toteutettiin vaiheittain käyttäjäkeskeistä muotoiluprosessia noudat
 4. **Prototypoi** – Ideoiden konkretisointi paperiprototyypeiksi ja digitaalisiksi wireframe-malleiksi.
 5. **Testaa** – Prototyyppien käyttäjätestaus, palautteen analysointi ja ratkaisujen iterointi.
 
-Jokaisen vaiheen päätteeksi tiimi reflektoi oppimaansa ja muotoili pohjan seuraavalle askeleelle.
+**Jokaisen vaiheen päätteeksi tiimi reflektoi oppimaansa ja muotoili pohjan seuraavalle askeleelle.**

@@ -25,6 +25,8 @@ hooks:
 
 nav:
   - Etusivu: index.md
+  - JAMK - InnoFlash 2022:
+      - InnoFlash projektimme:  07_InnoFlash/karpalokodit.md
   - Perusteet:
       - Design thinking perusteet: 00_Perusteet/Design_thinking_perusteet.md
       - Periaatteet ja ajattelutapa: 00_Perusteet/Periaatteet_ja_ajattelutapa.md
@@ -53,10 +55,7 @@ nav:
       - Menetelmät ja työkalut -taulukko: 06_Yhteenveto/Menetelmat_ja_tyokalut_taulukko.md
       - Käsitteet ja sanasto: 06_Yhteenveto/Kasitteet_ja_sanasto.md
       - Prosessin tiivistelmä: 06_Yhteenveto/Prosessin_tiivistelma.md
-  - JAMK, InnoFlash2022:
-      - Mikä ihmeen InnoFlash?: 07_InnoFlash/mikä-ihmeen-innoflash.md
-      - Projektin esittely: 07_InnoFlash/karpalokodit.md
-
+  
 extra:
   palette:
     - scheme: default
@@ -78,4 +77,4 @@ markdown_extensions:
   - def_list
   - footnotes
   - pymdownx.superfences
-  
+
