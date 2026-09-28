@@ -1,6 +1,6 @@
 # Design Thinking
 
-Jamkin design thinkingin kurssimateriaali, julkaistu MkDocs Material -teeman avulla GitHub Pages -palvelussa.
+Jyväskylän ammattikorkeakoulun (Jamk) InnoFlash-kurssin pohjalta uudelleen luotu ja jäsennelty oppimateriaali Design Thinking -prosessiin liittyen. Sivusto on toteutettu MkDocs Material -teemalla ja julkaistu GitHub Pages -palvelussa.
 
 ## Mitä sivustolla on?
 
@@ -15,16 +15,17 @@ Sivusto sisältää kurssin materiaalin seitsemän pääosiona, jotka vastaavat 
 - **Yhteenveto** – menetelmät ja työkalut yhtenä paketina
 - **InnoFlash2022** – InnoFlash-kurssin kuvaus ja Tiimin 28 karpalokohtauksesta
 
-## Timen kunnianomistajat
+## Credits & Tiimin jäsenet
 
 - Noora Seppälä
 - Jenni Kortelainen
 - Kristian Heino
-- Mikko Pohjola
 - Salli Saimovaara
 - Sanna Kettunen
+- Mikko Pohjola
 
-Kurssi: **T6.6 JAMK InnoFlash 2022**
+**Oppilaitos:** Jyväskylän ammattikorkeakoulu (Jamk) 2022
+Kurssi: **InnoFlash**
 
 ## Julkaisu
 
