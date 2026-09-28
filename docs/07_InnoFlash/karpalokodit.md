@@ -27,6 +27,11 @@ Karpalokodit Oy tarjoaa tehostettua palveluasumista sekä hoiva- ja asumispalvel
 
 Laaditut ratkaisut vastaavat suoraan toimeksiantajan tarpeeseen erottua vetovoimaisena työnantajana ja paikallisena toimijana. Tunnettavuuden lisäämisessä huomioitiin niin viestintä- ja markkinointikanavat, paikalliset yhteistyöverkostot kuin paikkakunnan tarjoamat kokonaisvaltaiset asumis- ja vapaa-ajan mahdollisuudet.
 
+---
+
+# Kehitetyt konseptit - yhteenveto
+
+Design thinking -prosessin tuloksena tiimi määritteli kolme toisiaan tukevaa konseptia:
 
 ## Asiakasymmärrys: Lähihoitaja Pirjo
 
@@ -36,12 +41,6 @@ Kaikki kehitetyt ratkaisukonsernit pohjautuvat asiakastutkimukseen ja sen perust
 * **Motiivit:** Merkityksellinen ja mielekäs työ, hyvä palkkaus, sosiaalinen ja kannustava työyhteisö, hyvää johtaminen sekä puolisolle löytyvät työllistymismahdollisuudet ja monipuoliset vapaa-ajan palvelut.
 * **Tavoitteet:** Vakituinen työpaikka, oma koti ja tasapainoinen perhearki.
 * **Kipupisteet:** Tukiverkostojen etäisyys, julkisen liikenteen rajoitteet, työn kuormittavuus sekä työn ja vapaa-ajan yhteensovittaminen.
-
----
-
-# Kehitetyt konseptit - yhteenveto
-
-Design thinking -prosessin tuloksena tiimi määritteli kolme toisiaan tukevaa konseptia:
 
 ---
 
