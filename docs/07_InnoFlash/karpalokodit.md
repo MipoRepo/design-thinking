@@ -16,7 +16,7 @@ Prosessin aikana opitaan, että vaikuttavin ratkaisu syntyy yhdistämällä toim
 
 ---
 
-# **Projektin esittely – Karpalokodit Oy**
+# Projektin esittely – Karpalokodit Oy
 
 ## Tausta ja tavoite
 
@@ -27,17 +27,6 @@ Karpalokodit Oy tarjoaa tehostettua palveluasumista sekä hoiva- ja asumispalvel
 
 Laaditut ratkaisut vastaavat suoraan toimeksiantajan tarpeeseen erottua vetovoimaisena työnantajana ja paikallisena toimijana. Tunnettavuuden lisäämisessä huomioitiin niin viestintä- ja markkinointikanavat, paikalliset yhteistyöverkostot kuin paikkakunnan tarjoamat kokonaisvaltaiset asumis- ja vapaa-ajan mahdollisuudet.
 
----
-
-**Kurssi:** JAMK InnoFlash 2022 (ZZPP0740-3044)  
-**Teema:** Konseptointi-ideat  
-
-|Opiskelijat tiimi 28 | | |
-| :--- | :--- | :--- |
-| Noora Seppälä | Salli Saimovaara | Kristian Heino |
-| Jenni Kortelainen | Sanna Kettunen | Mikko Pohjola |
-
----
 
 ## Asiakasymmärrys: Lähihoitaja Pirjo
 
@@ -50,11 +39,13 @@ Kaikki kehitetyt ratkaisukonsernit pohjautuvat asiakastutkimukseen ja sen perust
 
 ---
 
-## Kehitetyt konseptit
+# Kehitetyt konseptit - yhteenveto
 
 Design thinking -prosessin tuloksena tiimi määritteli kolme toisiaan tukevaa konseptia:
 
-## 1. Kotisivujen päivittäminen (Uskottavuus & Saavutettavuus)
+---
+
+## 1. Kotisivujen päivittäminen: uskottavuus & saavutettavuus
 
 **Ratkaisu:** Nykyaikaiset ja houkuttelevat kotisivut rakentavat ammattimaista kuvaa ja madaltavat kynnystä tutustua Karpalokoteihin.
 
@@ -67,7 +58,9 @@ Design thinking -prosessin tuloksena tiimi määritteli kolme toisiaan tukevaa k
 
 **Resurssit:** Kotisivurungon toteutus ulkoistetaan ammattilaiselle, mutta säännöllinen päivitys koulutetaan omalle henkilökunnalle vastuutehtäväpalkkiolla huomioiden työaika.
 
-## 2. Markkinointi ja yhteistyöverkostot (Näkyvyys & Verkostoituminen)
+---
+
+## 2. Markkinointi ja yhteistyöverkostot: näkyvyys & verkostoituminen
 
 **Ratkaisu:** Lisätään Karpalokotien ja samalla koko paikkakunnan tunnettavuutta monikanavaisesti.
 
@@ -79,7 +72,9 @@ Design thinking -prosessin tuloksena tiimi määritteli kolme toisiaan tukevaa k
 
 **Resurssit:** Henkilöstölle myönnetään vastuutehtäväpalkkio edustamisesta ja näkyvyydestä. Kustannuksia jaetaan kunnan kanssa ja hankkeeseen haetaan ELY-keskuksen rahoitusta.
 
-## 3. Sosiaalisen median hyödyntäminen (Utopistinen / Nuorekas vetovoima)
+---
+
+## 3. Sosiaalisen median hyödyntäminen: nuorekas vetovoima
 
 **Ratkaisu:** Tavoitetaan nuoremmat alan ammattilaiset, opiskelijat ja tulevat asukkaat visuaalisella ja helposti lähestyttävällä sisällöllä.
 
@@ -104,3 +99,14 @@ Projekti toteutettiin vaiheittain käyttäjäkeskeistä muotoiluprosessia noudat
 5. **Testaa** – Prototyyppien käyttäjätestaus, palautteen analysointi ja ratkaisujen iterointi.
 
 **Jokaisen vaiheen päätteeksi tiimi reflektoi oppimaansa ja muotoili pohjan seuraavalle askeleelle.**
+
+---
+
+*Kurssi: JAMK InnoFlash 2022 (ZZPP0740-3044)*
+
+|Opiskelijat tiimi 28 | | |
+| :--- | :--- | :--- |
+| Noora Seppälä | Salli Saimovaara | Kristian Heino |
+| Jenni Kortelainen | Sanna Kettunen | Mikko Pohjola |
+
+---
