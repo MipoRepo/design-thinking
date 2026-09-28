@@ -116,7 +116,7 @@ IDEO kuvaa prosessin kolmena "tilana" (spaces), koska vaiheet eivät ole tiukkoj
 
 Kirjaston palvelujen kehittäminen d.school-mallilla: haastatellaan kävijöitä (empatisoi), todetaan nuorten kokevan kirjaston "ei-heidän paikakseen" (määrittele), ideoidaan tapoja tehdä tilasta houkutteleva (ideoi), rakennetaan pieni kokeilutila (prototypoi) ja kerätään nuorten palautetta (testaa).
 
-## Yhteenveto omin sanoin
+## Yhteenveto
 
 Prosessimallit jäsentävät design thinkingin vaiheiksi, mutta perusajatus on kaikissa sama: ymmärrä ihmisiä, määrittele oikea ongelma, tuota ja kokeile ratkaisuja ja paranna palautteen perusteella. Malli on työkalu, ei sääntö.
 

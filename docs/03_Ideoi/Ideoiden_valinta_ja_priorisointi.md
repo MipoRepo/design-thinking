@@ -66,7 +66,7 @@ Samankaltaiset ideat yhdistetään ja niistä muodostetaan vahvempia konsepteja.
 
 Kirjaston ideoita: nuorten oma huone, hiljaisuussääntöjen uudistus, kirjaston pelitapahtumat. Vaikutus-vaiva-matriisissa pelitapahtumat ovat pieni vaiva ja suuri vaikutus, joten ne prototypoidaan ensin.
 
-## Yhteenveto omin sanoin
+## Yhteenveto
 
 Valinta tehdään kriteerien avulla ja käyttäjän tarve edellä. Matriisit ja äänestys tekevät päätöksenteosta läpinäkyvää.
 

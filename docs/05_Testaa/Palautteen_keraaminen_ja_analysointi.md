@@ -70,7 +70,7 @@ Palautteen kerääminen tarkoittaa käyttäjien reaktioiden, havaintojen ja miel
 - Ei kirjata syitä
 - Jätetään analyysi tekemättä
 
-## Yhteenveto omin sanoin
+## Yhteenveto
 
 Palaute kerätään havainnoimalla ja haastattelemalla, kirjataan jäsennellysti ja analysoidaan kuvioiden löytämiseksi. Sen perusteella päätetään jatkosta.
 

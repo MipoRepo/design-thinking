@@ -59,7 +59,7 @@ POV-lauseesta johdettu avoin kysymys, joka kääntää ongelman ideoinnin läht�
 | Sopiva | Miten voisimme auttaa yövuorolaisia palautumaan lyhyilläkin tauoilla? |
 | Liian kapea | Miten voisimme suunnitella sängyn hoitajien taukotilaan? |
 
-## Yhteenveto omin sanoin
+## Yhteenveto
 
 Ongelmalause tiivistää käyttäjän tarpeen ja oivalluksen yhteen lauseeseen, ja HMW-kysymys kääntää sen ideoinnin lähtökohdaksi.
 

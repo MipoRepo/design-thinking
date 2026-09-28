@@ -46,7 +46,7 @@ Hyvä oivallus on:
 - **Tarve:** oppilas tarvitsee tavan syödä ilman huomion kohteeksi joutumista.
 - **Oivallus:** ruokalan jono ja avoin tila tekevät syömisestä sosiaalisen suorituksen.
 
-## Yhteenveto omin sanoin
+## Yhteenveto
 
 Käyttäjätarve kertoo, mitä ihminen tarvitsee, ja oivallus sen, miksi. Yhdessä ne muodostavat pohjan hyvälle ongelmalauseelle.
 

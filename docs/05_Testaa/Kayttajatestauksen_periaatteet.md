@@ -57,7 +57,7 @@ Laadullisessa käytettävyystestauksessa jo noin **5 käyttäjää** löytää s
 
 Kirjaston nuorten tilan pahvimalli: nuorille annetaan tehtävä "Etsi paikka, jossa voit pelata kavereiden kanssa". Havaitaan, että he kiertävät pelialueen, koska opaste puuttuu.
 
-## Yhteenveto omin sanoin
+## Yhteenveto
 
 Testaus tarkoittaa ratkaisun kokeilemista käyttäjillä oppimistavoitteen kanssa. Havainnointi kertoo enemmän kuin kysely.
 

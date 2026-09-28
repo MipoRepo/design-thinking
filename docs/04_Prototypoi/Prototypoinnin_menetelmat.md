@@ -93,7 +93,7 @@ Keskittyy rakenteeseen ja toiminnallisuuteen, ei ulkoasuun.
 
 Kirjaston nuorten tila: storyboard kuvaa nuoren vierailun, roolileikissä kokeillaan vastaanottoa ja pahvimalli testaa tilan järjestelyä.
 
-## Yhteenveto omin sanoin
+## Yhteenveto
 
 Paperiprototyyppi, storyboard, roolileikki ja wireframe ovat nopeita ja halpoja tapoja tehdä ideasta testattava. Menetelmä valitaan sen mukaan, mitä halutaan oppia.
 

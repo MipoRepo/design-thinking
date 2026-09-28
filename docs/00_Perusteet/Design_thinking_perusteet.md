@@ -113,7 +113,7 @@ Sairaalan odotushuoneen kehittämisessä ei aloiteta huonekalujen hankinnasta. E
 
 ---
 
-## Yhteenveto omin sanoin
+## Yhteenveto
 
 Design thinking on tapa ratkaista ongelmia ymmärtämällä ensin ihmisiä ja kokeilemalla sitten nopeasti erilaisia ratkaisuja. Se perustuu 1960-luvulta alkaneeseen design-tutkimukseen, Stanfordin opetukseen ja IDEO:n käytännön työhön, ja levisi 2000-luvulla laajasti eri aloille.
 

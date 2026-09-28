@@ -97,7 +97,7 @@ Monimutkaiset ongelmat vaativat monia näkökulmia. Parhaat ratkaisut syntyvät,
 
 Kouluruokailun kehittämisessä tiimi (opettaja, ravitsemusasiantuntija, oppilaita, keittiöhenkilökunta) havainnoi ruokalassa oppilaiden toimintaa sen sijaan, että päättäisi uudesta menusta pöydän ääressä (ihmiskeskeisyys, yhteistyö). Ensimmäinen kokeilu tehdään yhdellä luokalla viikon ajan (iteratiivisuus), ja palautteen perusteella ratkaisua muokataan.
 
-## Yhteenveto omin sanoin
+## Yhteenveto
 
 Design thinkingin ydin on ajattelutapa: ymmärrä ihmisiä (ihmiskeskeisyys), opi kokeilemalla ja parantamalla (iteratiivisuus) ja hyödynnä eri näkökulmia (yhteistyö).
 

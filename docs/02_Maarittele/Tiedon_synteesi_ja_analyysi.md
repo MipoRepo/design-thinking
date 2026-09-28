@@ -59,7 +59,7 @@ Kysy toistuvasti "miksi?" havainnon takana olevan syyn löytämiseksi.
 
 Kirjaston nuorten haastatteluissa toistuu: "en tiedä, saako täällä olla", "kaikki on hiljaista". Ryhmittelyn teemat: hiljaisuus, epäselvät säännöt, ei omaa tilaa. Yhdistävä oivallus on, että tila viestii "et kuulu tänne".
 
-## Yhteenveto omin sanoin
+## Yhteenveto
 
 Synteesi muuttaa hajanaiset havainnot ymmärrettäviksi teemoiksi ja oivalluksiksi, joiden pohjalta ongelma voidaan määritellä oikein.
 

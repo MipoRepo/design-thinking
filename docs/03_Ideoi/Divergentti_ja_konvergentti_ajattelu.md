@@ -54,7 +54,7 @@ Testaa:      laajenna (palaute) → kavenna (päätökset)
 - Valitaan ilman kriteerejä tai vain "mututuntumalla"
 - Kavennetaan liian nopeasti
 
-## Yhteenveto omin sanoin
+## Yhteenveto
 
 Ensin avataan mahdollisuuksia mahdollisimman laajasti, sitten valitaan niistä parhaat kriteerien mukaan. Tärkeintä on pitää vaiheet erillään.
 

@@ -50,7 +50,7 @@ Empatia on kykyä ymmärtää toisen ihmisen kokemusta, tunteita, tarpeita ja n�
 
 Vanhusten kotihoidon kehittämisessä tiimi seuraa hoitajan päivää ja käy asiakkaiden luona. Havainto: asiakkaat eivät valita yksinäisyydestä, mutta odottavat hoitajan käyntiä ikkunan ääressä. Tarve on kohtaaminen, ei vain hoitotoimenpide.
 
-## Yhteenveto omin sanoin
+## Yhteenveto
 
 Empatisointi tarkoittaa ihmisten todellisen tilanteen ymmärtämistä ennen kuin ratkaisuja aletaan kehittää. Se ohjaa prosessin oikeaan ongelmaan.
 

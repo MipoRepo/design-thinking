@@ -63,6 +63,6 @@ Nopea hakuteos: mikä menetelmä, mihin vaiheeseen, mihin tarkoitukseen ja millo
 | Feedback Capture Grid | Jäsentää palaute (I like, I wish, What if) | Palautteen kirjaamiseen |
 | Iterointi | Parantaa palautteen perusteella | Jokaisen testikierroksen jälkeen |
 
-## Yhteenveto omin sanoin
+## Yhteenveto
 
 Jokaiseen vaiheeseen kuuluu omat menetelmänsä, ja niistä valitaan sopivat tilanteen ja oppimistavoitteen mukaan.

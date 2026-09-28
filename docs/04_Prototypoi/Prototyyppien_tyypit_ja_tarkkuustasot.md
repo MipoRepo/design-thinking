@@ -57,7 +57,7 @@ Prototyypit voidaan luokitella **tarkkuustason** (fidelity) ja **tarkoituksen** 
 
 Kirjaston nuorten tilan idea: ensin pahvimalli ja roolileikki (matala), sitten pohjapiirros (keskitaso) ja lopuksi 3D-visualisointi sidosryhmille (korkea).
 
-## Yhteenveto omin sanoin
+## Yhteenveto
 
 Aloita karkealla prototyypillä ja lisää tarkkuutta vasta, kun tiedät, että idea on oikea. Tarkkuus valitaan sen mukaan, mitä halutaan oppia.
 

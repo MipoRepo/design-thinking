@@ -113,7 +113,7 @@ Paljastaa yhteyksiä ja uusia näkökulmia, jäsentää ajattelua.
 
 HMW: *Miten voisimme saada nuoret tuntemaan kirjaston omakseen?* Crazy 8s tuottaa 8 luonnosta per henkilö. SCAMPER-kysymys "Korvaa": korvataan hiljaisuussääntö äänetön/ääni-alue -jaolla.
 
-## Yhteenveto omin sanoin
+## Yhteenveto
 
 Brainstorming, SCAMPER, Crazy 8s ja mind map ovat eri tapoja tuottaa paljon ideoita. Yhteistä on määrän painottaminen ja arvostelun lykkääminen.
 

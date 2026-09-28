@@ -2,7 +2,8 @@
 
 # **Design Thinking**
 
-**Jamk InnoFlash (2022)** -kurssi pohjautui **Design Thinking**:iin eli muotoiluajatteluun, joka on ihmiskeskeinen ja kokeileva lähestymistapa monimutkaisten ongelmien ratkaisuun. Menetelmässä korostuvat aitojen käyttäjätarpeiden ymmärtäminen, monialainen yhteistyö sekä ideoiden nopea jalostaminen prototyypeiksi ja niiden testaus käytännössä. Kyseessä on iteratiivinen prosessi, jossa epävarmuus hyväksytään ja parhaat ratkaisut muotoutuvat vaiheittain saatavan palautteen pohjalta.
+**Jamk InnoFlash (2022)** -kurssi pohjautui **Design Thinking**:iin eli muotoiluajatteluun, joka on ihmiskeskeinen ja kokeileva lähestymistapa monimutkaisten ongelmien ratkaisuun. 
+Menetelmässä korostuvat aitojen käyttäjätarpeiden ymmärtäminen, monialainen yhteistyö sekä ideoiden nopea jalostaminen prototyypeiksi ja niiden testaus käytännössä. Kyseessä on iteratiivinen prosessi, jossa epävarmuus hyväksytään ja parhaat ratkaisut muotoutuvat vaiheittain saatavan palautteen pohjalta.
 
 Tämä materiaali käsittelee design thinking -menetelmää sen eri vaiheissa:
 
@@ -17,9 +18,5 @@ Tämä materiaali käsittelee design thinking -menetelmää sen eri vaiheissa:
 ## InnoFlash 2022
 InnoFlash on Jamk Future Factoryn opintojakso, **jossa monialaiset opiskelijatiimit ratkovat yritysten aitoja kehittämishaasteita** uutta luovalla, systemaattisella ideoinnilla sekä nopealla prototyypoinnilla. Työskentelin projektissa Ideoi-vaiheen tiimissä kehittämässä erilaisia ratkaisuvaihtoehtoja ja huomasin käytännössä, miten vahvimmat tulokset syntyvät yhdistämällä monialaisen tiimin osaamisen, toimivan testauksen sekä toimeksiantajan näkyvät ja piilevät tarpeet.
 
-## Tiimin jäsenet
-|Opiskelijat | | |
-| :--- | :--- | :--- |
-| Noora Seppälä | Salli Saimovaara | Kristian Heino |
-| Jenni Kortelainen | Sanna Kettunen | Mikko Pohjola |
+---
 

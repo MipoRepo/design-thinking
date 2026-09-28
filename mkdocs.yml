@@ -5,7 +5,7 @@ docs_dir: docs
 
 theme:
   name: material
-  logo: assets/images/logo.jpg
+  logo: assets/images/logo.png
   icon:
     repo: fontawesome/brands/github
 
@@ -53,7 +53,7 @@ nav:
       - Menetelmät ja työkalut -taulukko: 06_Yhteenveto/Menetelmat_ja_tyokalut_taulukko.md
       - Käsitteet ja sanasto: 06_Yhteenveto/Kasitteet_ja_sanasto.md
       - Prosessin tiivistelmä: 06_Yhteenveto/Prosessin_tiivistelma.md
-  - InnoFlash2022:
+  - JAMK, InnoFlash2022:
       - Mikä ihmeen InnoFlash?: 07_InnoFlash/mikä-ihmeen-innoflash.md
       - Projektin esittely: 07_InnoFlash/karpalokodit.md
 
@@ -78,5 +78,4 @@ markdown_extensions:
   - def_list
   - footnotes
   - pymdownx.superfences
-  - toc:
-      permalink: toc
+  

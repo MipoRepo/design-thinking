@@ -93,7 +93,7 @@ Kuvata käyttäjän kokemus ajan yli vaiheittain ja löytää kehityskohteet.
 
 Opiskelijoiden ruokailun tutkimus: empatiakartta paljastaa, että opiskelija *sanoo* haluavansa terveellistä ruokaa, mutta *tekee* nopean valinnan, koska ruokatauko on lyhyt. Asiakaspolku näyttää turhautumisen jonossa.
 
-## Yhteenveto omin sanoin
+## Yhteenveto
 
 Empatiakartta, persoona ja asiakaspolku muuttavat haastatteluista ja havainnoista kerätyn tiedon visuaaliseksi, jaettavaksi ymmärrykseksi käyttäjistä.
 

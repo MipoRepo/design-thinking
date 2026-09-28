@@ -51,7 +51,7 @@ Iterointi liittyy kaikkiin prosessimalleihin: d.school-mallissa vaiheet ovat toi
 
 Kirjaston nuorten tila: ensimmäisessä testissä nuoret eivät löydä tilaa (prototyyppiä muokataan, opasteet lisätään), toisessa testissä tila on liian avoin (palataan ideointiin ja lisätään väliseinät), kolmannessa tila toimii.
 
-## Yhteenveto omin sanoin
+## Yhteenveto
 
 Iterointi tarkoittaa jatkuvaa kehittämistä palautteen perusteella: paranna, testaa uudelleen ja palaa tarvittaessa aiempiin vaiheisiin.
 

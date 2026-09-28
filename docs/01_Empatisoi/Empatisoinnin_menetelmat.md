@@ -104,7 +104,7 @@ Kerätä tietoa laajalta joukolta tai vahvistaa haastattelujen ja havaintojen po
 - **Asiantuntijahaastattelut**
 - **Taustatutkimus** (aiempi tutkimus, tilastot)
 
-## Yhteenveto omin sanoin
+## Yhteenveto
 
 Empatisoinnissa yhdistetään haastattelu, havainnointi, shadowing ja kyselyt, jotta saadaan sekä sanottu että tehty ja niiden ero näkyviin.
 

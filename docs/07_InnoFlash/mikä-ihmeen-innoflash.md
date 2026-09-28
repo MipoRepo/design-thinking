@@ -11,3 +11,9 @@ InnoFlash on viisi kertaa vuodessa järjestettävä Jamk Future Factory -kokonai
 ## Opiskelijan rooli
 
 Opiskelijana toimitsin Ideoi-vaiheen tiiminä, jossa kehitin useita ratkaisuja ongelmaan, jota ei vielä ollut täysin muotoiltu. Opiskelin, että paras ratkaisu on usein se, joka yhdistää näkyvän tarjoajan tarpeen piiloon olevaan haasteeseen.
+
+## Tiimin jäsenet
+|Opiskelijat | | |
+| :--- | :--- | :--- |
+| Noora Seppälä | Salli Saimovaara | Kristian Heino |
+| Jenni Kortelainen | Sanna Kettunen | Mikko Pohjola |

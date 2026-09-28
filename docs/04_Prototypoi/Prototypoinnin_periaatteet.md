@@ -49,7 +49,7 @@ Ennen tekemistä pohdi:
 - Prototyyppiä ei viedä käyttäjille
 - Puolustetaan omaa ideaa palautetta kuunneltaessa
 
-## Yhteenveto omin sanoin
+## Yhteenveto
 
 Prototypointi tarkoittaa ideoiden tekemistä näkyviksi ja testattaviksi nopeasti ja halvalla, jotta opitaan ennen kuin sitoudutaan.
 
