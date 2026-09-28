@@ -10,7 +10,9 @@ InnoFlash on nykyisin viisi kertaa vuodessa järjestettävä Jamk Future Factory
 
 ## Opiskelijan rooli
 
-Opiskelijana toimitsin Ideoi-vaiheen tiiminä, jossa kehitin useita ratkaisuja ongelmaan, jota ei vielä ollut täysin muotoiltu. Opiskelin, että paras ratkaisu on usein se, joka yhdistää näkyvän tarjoajan tarpeen piiloon olevaan haasteeseen.
+Opiskelijat toimivat InnoFlash-jaksolla monialaisessa tiimissä, joka vastaa haasteen ratkaisemisesta aina ideointivaiheesta käytännön konseptointiin. Tiimin tehtävänä on kehittää useita vaihtoetoja ongelmaan, joka ei alussa ole vielä täysin muotoiltu. 
+
+Prosessin aikana opitaan, että vaikuttavin ratkaisu syntyy yhdistämällä toimeksiantajan näkyvät tarpeet ja taustalla piilevät todelliset haasteet toimivaksi kokonaisuudeksi.
 
 ---
 
