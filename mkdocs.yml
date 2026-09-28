@@ -25,9 +25,9 @@ hooks:
 
 nav:
   - Etusivu: index.md
-  - InnoFlash 2022 (Jamk):
+  - InnoFlash (JAMK):
       - InnoFlash projektimme:  07_InnoFlash/karpalokodit.md
-  - Perusteet:
+  - Desing Thinking Perusteet:
       - Design thinking perusteet: 00_Perusteet/Design_thinking_perusteet.md
       - Periaatteet ja ajattelutapa: 00_Perusteet/Periaatteet_ja_ajattelutapa.md
       - Prosessimallit: 00_Perusteet/Prosessimallit.md

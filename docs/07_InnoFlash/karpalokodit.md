@@ -1,11 +1,11 @@
 # Mikä ihmeen InnoFlash?
 
-InnoFlash on nykyisin viisi kertaa vuodessa järjestettävä Jamk Future Factory -kokonaisuuteen kuuluva opintojakso, jossa ensimmäisen vuoden opiskelijat ideoivat ratkaisuja monialaisissa opiskelijatiimeissä organisaatioiden ja yritysten todellisiin kehittämishaasteisiin.
+InnoFlash on nykyisin viisi kertaa vuodessa järjestettävä Jamk Future Factory -kokonaisuuteen kuuluva opintojakso, jossa opiskelijat ideoivat ratkaisuja monialaisissa opiskelijatiimeissä organisaatioiden ja yritysten todellisiin kehittämishaasteisiin.
 
 ## Mitä opitaan?
 
-- Työskentelyyn kuuluu sekamuotoinen ideointi että systemaattinen lähestyminen
-- Monialainen tiimityö tuottaa parempia ratkaisuja kuin yksinomaan oma osaaminen
+- Työskentely yhdistää vapaan ja monimuotoisen ideoinnin systemaattiseen lähestymistapaan sekä iteratiiviseen, vaiheittain tarkentuvaan toteutukseen.
+- Eri koulutusalojen opiskelijoista koostuva monialainen tiimi tuottaa parempia ratkaisuja kuin yhden alan osaaminen yksinään
 - Nopea protottypointi ja testaus auttavat kasvamaan ideoista todellisia ratkaisuja
 
 ## Opiskelijan rooli

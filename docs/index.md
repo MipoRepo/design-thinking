@@ -2,9 +2,11 @@
 
 ---
 
-# **Design Thinking**
+# Design Thinking
 
-Jamk InnoFlash (2022) -kurssi pohjautui **Design Thinking:iin eli muotoiluajatteluun**, joka on ihmiskeskeinen ja kokeileva lähestymistapa monimutkaisten ongelmien ratkaisuun. Menetelmässä korostuvat aitojen käyttäjätarpeiden ymmärtäminen, monialainen yhteistyö sekä ideoiden nopea jalostaminen prototyypeiksi ja niiden testaus käytännössä. Kyseessä on iteratiivinen prosessi, jossa epävarmuus hyväksytään ja parhaat ratkaisut muotoutuvat vaiheittain saatavan palautteen pohjalta.
+Design Thinking eli muotoiluajattelu, on ihmiskeskeinen ja kokeileva lähestymistapa monimutkaisten ongelmien ratkaisuun. Menetelmässä korostuvat aitojen käyttäjätarpeiden ymmärtäminen, monialainen yhteistyö sekä ideoiden nopea jalostaminen prototyypeiksi ja niiden testaus käytännössä. 
+
+Kyseessä on iteratiivinen prosessi, jossa epävarmuus hyväksytään ja parhaat ratkaisut muotoutuvat vaiheittain saatavan palautteen pohjalta.
 
 Tämä materiaali käsittelee design thinking -menetelmää sen eri vaiheissa:
 
@@ -16,7 +18,7 @@ Tämä materiaali käsittelee design thinking -menetelmää sen eri vaiheissa:
 - **Testaa** – ratkausten testaaminen ja palautteen analysointi
 - **Yhteenveto** – menetelmät ja työkalut yhtä suurta katsauksena
 
-## InnoFlash 2022
+## InnoFlash
 
 InnoFlash on Jyväskylän ammattikorkeakoulun Future Factoryn opintojakso, **jossa monialaiset opiskelijatiimit ratkovat yritysten aitoja kehittämishaasteita uutta luovalla, systemaattisella ideoinnilla sekä nopealla prototyypoinnilla.**
 
