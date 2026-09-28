@@ -1,0 +1,82 @@
+site_name: Design Thinking
+site_description: Jamkin design thinkingin kurssimateriaali
+
+docs_dir: docs
+
+theme:
+  name: material
+  logo: assets/images/logo.jpg
+  icon:
+    repo: fontawesome/brands/github
+
+features:
+  - navigation.tabs
+  - navigation.tabs_sticky
+  - navigation.top
+  - search.highlight
+  - content.code.annotate
+  - content.tooltips
+
+plugins:
+  - search
+
+hooks:
+  - hooks/wiki_links.py
+
+nav:
+  - Etusivu: index.md
+  - Perusteet:
+      - Design thinking perusteet: 00_Perusteet/Design_thinking_perusteet.md
+      - Periaatteet ja ajattelutapa: 00_Perusteet/Periaatteet_ja_ajattelutapa.md
+      - Prosessimallit: 00_Perusteet/Prosessimallit.md
+  - Empatisoi:
+      - Empatian merkitys: 01_Empatisoi/Empatian_merkitys.md
+      - Empatisoinnin menetelmät: 01_Empatisoi/Empatisoinnin_menetelmat.md
+      - Empatisoinnin työkalut: 01_Empatisoi/Empatisoinnin_tyokalut.md
+  - Määrittele:
+      - Tiedon synteesi ja analyysi: 02_Maarittele/Tiedon_synteesi_ja_analyysi.md
+      - Ongelmalause: 02_Maarittele/Ongelmalause.md
+      - Käyttäjätarpeet ja oivallukset: 02_Maarittele/Kayttajatarpeet_ja_oivallukset.md
+  - Ideoi:
+      - Divergentti ja konvergentti ajattelu: 03_Ideoi/Divergentti_ja_konvergentti_ajattelu.md
+      - Ideoinnin menetelmät: 03_Ideoi/Ideoinnin_menetelmat.md
+      - Ideoiden valinta ja priorisointi: 03_Ideoi/Ideoiden_valinta_ja_priorisointi.md
+  - Prototypoi:
+      - Prototypoinnin periaatteet: 04_Prototypoi/Prototypoinnin_periaatteet.md
+      - Prototyyppien tyypit ja tarkkuustasot: 04_Prototypoi/Prototyyppien_tyypit_ja_tarkkuustasot.md
+      - Prototypoinnin menetelmät: 04_Prototypoi/Prototypoinnin_menetelmat.md
+  - Testaa:
+      - Käyttäjätestauksen periaatteet: 05_Testaa/Kayttajatestauksen_periaatteet.md
+      - Palautteen kerääminen ja analysointi: 05_Testaa/Palautteen_keraaminen_ja_analysointi.md
+      - Iterointi: 05_Testaa/Iterointi.md
+  - Yhteenveto:
+      - Menetelmät ja työkalut -taulukko: 06_Yhteenveto/Menetelmat_ja_tyokalut_taulukko.md
+      - Käsitteet ja sanasto: 06_Yhteenveto/Kasitteet_ja_sanasto.md
+      - Prosessin tiivistelmä: 06_Yhteenveto/Prosessin_tiivistelma.md
+  - InnoFlash2022:
+      - Mikä ihmeen InnoFlash?: 07_InnoFlash/mikä-ihmeen-innoflash.md
+      - Projektin esittely: 07_InnoFlash/karpalokodit.md
+
+extra:
+  palette:
+    - scheme: default
+      primary: indigo
+      accent: indigo
+      toggle:
+        icon: material/toggle-switch-off-outline
+        name: Switch to dark mode
+    - scheme: slate
+      primary: indigo
+      accent: indigo
+      toggle:
+        icon: material/toggle-switch
+        name: Switch to light mode
+
+markdown_extensions:
+  - admonition
+  - attr_list
+  - def_list
+  - footnotes
+  - pymdownx.superfences
+  - toc:
+      permalink: toc
