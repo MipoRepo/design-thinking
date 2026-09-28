@@ -1,8 +1,5 @@
 # Tiedon synteesi ja analyysi
 
-**Prosessin vaihe:** 02 Määrittele
-**Liittyy:** [[Empatisoinnin työkalut]], [[Ongelmalause]], [[Käyttäjätarpeet ja oivallukset]]
-
 ---
 
 ## Määritelmä
@@ -65,10 +62,6 @@ Kirjaston nuorten haastatteluissa toistuu: "en tiedä, saako täällä olla", "k
 ## Yhteenveto omin sanoin
 
 Synteesi muuttaa hajanaiset havainnot ymmärrettäviksi teemoiksi ja oivalluksiksi, joiden pohjalta ongelma voidaan määritellä oikein.
-
-## Avoimet kysymykset
-
--
 
 ## Lähteet
 

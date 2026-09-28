@@ -1,7 +1,5 @@
 # Prosessin tiivistelmä (yksi sivu)
 
-**Prosessin vaihe:** 06 Yhteenveto
-
 ---
 
 ## Mitä design thinking on
@@ -52,7 +50,3 @@ Empatisoi → Määrittele → Ideoi → Prototypoi → Testaa
 | Määrittele | Define | Inspiration / Ideation |
 | Ideoi, Prototypoi | Develop | Ideation |
 | Testaa | Deliver | Ideation / Implementation |
-
-## Avoimet kysymykset
-
--

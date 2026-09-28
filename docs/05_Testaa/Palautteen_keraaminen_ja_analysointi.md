@@ -1,8 +1,5 @@
 # Palautteen kerääminen ja analysointi
 
-**Prosessin vaihe:** 05 Testaa
-**Liittyy:** [[Käyttäjätestauksen periaatteet]], [[Iterointi]], [[Tiedon synteesi ja analyysi]]
-
 ---
 
 ## Määritelmä
@@ -76,10 +73,6 @@ Palautteen kerääminen tarkoittaa käyttäjien reaktioiden, havaintojen ja miel
 ## Yhteenveto omin sanoin
 
 Palaute kerätään havainnoimalla ja haastattelemalla, kirjataan jäsennellysti ja analysoidaan kuvioiden löytämiseksi. Sen perusteella päätetään jatkosta.
-
-## Avoimet kysymykset
-
--
 
 ## Lähteet
 

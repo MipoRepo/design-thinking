@@ -1,8 +1,5 @@
 # Käyttäjätarpeet ja oivallukset
 
-**Prosessin vaihe:** 02 Määrittele
-**Liittyy:** [[Tiedon synteesi ja analyysi]], [[Ongelmalause]], [[Empatian merkitys]]
-
 ---
 
 ## Määritelmä
@@ -52,10 +49,6 @@ Hyvä oivallus on:
 ## Yhteenveto omin sanoin
 
 Käyttäjätarve kertoo, mitä ihminen tarvitsee, ja oivallus sen, miksi. Yhdessä ne muodostavat pohjan hyvälle ongelmalauseelle.
-
-## Avoimet kysymykset
-
--
 
 ## Lähteet
 

@@ -1,10 +1,8 @@
-# Design Thinking
+<img src="assets/images/designthinking_hero.png" alt="Design Thinking Hero" style="width: 70%; display: block; margin: 0 auto;">
 
-![Design Thinking Hero](assets/images/designthinking_hero.png)
+# **Design Thinking**
 
-Jamk InnoFlash 2022 -kurssin materiaali design thinkingistä.
-
-## Valitut tarpeet
+**Jamk InnoFlash (2022)** -kurssi pohjautui **Design Thinking**:iin eli muotoiluajatteluun, joka on ihmiskeskeinen ja kokeileva lähestymistapa monimutkaisten ongelmien ratkaisuun. Menetelmässä korostuvat aitojen käyttäjätarpeiden ymmärtäminen, monialainen yhteistyö sekä ideoiden nopea jalostaminen prototyypeiksi ja niiden testaus käytännössä. Kyseessä on iteratiivinen prosessi, jossa epävarmuus hyväksytään ja parhaat ratkaisut muotoutuvat vaiheittain saatavan palautteen pohjalta.
 
 Tämä materiaali käsittelee design thinking -menetelmää sen eri vaiheissa:
 
@@ -16,15 +14,12 @@ Tämä materiaali käsittelee design thinking -menetelmää sen eri vaiheissa:
 - **Testaa** – ratkausten testaaminen ja palautteen analysointi
 - **Yhteenveto** – menetelmät ja työkalut yhtä suurta katsauksena
 
-## InnoFlash2022
+## InnoFlash 2022
+InnoFlash on Jamk Future Factoryn opintojakso, **jossa monialaiset opiskelijatiimit ratkovat yritysten aitoja kehittämishaasteita** uutta luovalla, systemaattisella ideoinnilla sekä nopealla prototyypoinnilla. Työskentelin projektissa Ideoi-vaiheen tiimissä kehittämässä erilaisia ratkaisuvaihtoehtoja ja huomasin käytännössä, miten vahvimmat tulokset syntyvät yhdistämällä monialaisen tiimin osaamisen, toimivan testauksen sekä toimeksiantajan näkyvät ja piilevät tarpeet.
 
-Sivustolla on myös erillinen osio [InnoFlash2022](07_InnoFlash/mik%C3%A4-ihmeen-innoflash.md), jossa on kuvaus InnoFlash-kurssista sekä Tiimin 28 esittely karpalokoodeista.
+## Tiimin jäsenet
+|Opiskelijat | | |
+| :--- | :--- | :--- |
+| Noora Seppälä | Salli Saimovaara | Kristian Heino |
+| Jenni Kortelainen | Sanna Kettunen | Mikko Pohjola |
 
-## Timen kunnianomistajat
-
-- Noora Seppälä
-- Jenni Kortelainen
-- Kristian Heino
-- Mikko Pohjola
-- Salli Saimovaara
-- Sanna Kettunen

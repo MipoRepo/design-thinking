@@ -1,8 +1,5 @@
 # Design thinking: mitä se on ja mistä se tulee
 
-**Prosessin vaihe:** 00 Perusteet
-**Liittyy:** [[Periaatteet ja ajattelutapa]], [[Prosessimallit]], [[Empatisoi]]
-
 ---
 
 ## 1. Mitä on design thinking
@@ -119,10 +116,6 @@ Sairaalan odotushuoneen kehittämisessä ei aloiteta huonekalujen hankinnasta. E
 ## Yhteenveto omin sanoin
 
 Design thinking on tapa ratkaista ongelmia ymmärtämällä ensin ihmisiä ja kokeilemalla sitten nopeasti erilaisia ratkaisuja. Se perustuu 1960-luvulta alkaneeseen design-tutkimukseen, Stanfordin opetukseen ja IDEO:n käytännön työhön, ja levisi 2000-luvulla laajasti eri aloille.
-
-## Avoimet kysymykset
-
--
 
 ## Lähteet
 

@@ -1,8 +1,5 @@
 # Iterointi
 
-**Prosessin vaihe:** 05 Testaa (koko prosessi)
-**Liittyy:** [[Palautteen kerääminen ja analysointi]], [[Prosessimallit]], [[Periaatteet ja ajattelutapa]]
-
 ---
 
 ## Määritelmä
@@ -57,10 +54,6 @@ Kirjaston nuorten tila: ensimmäisessä testissä nuoret eivät löydä tilaa (p
 ## Yhteenveto omin sanoin
 
 Iterointi tarkoittaa jatkuvaa kehittämistä palautteen perusteella: paranna, testaa uudelleen ja palaa tarvittaessa aiempiin vaiheisiin.
-
-## Avoimet kysymykset
-
--
 
 ## Lähteet
 

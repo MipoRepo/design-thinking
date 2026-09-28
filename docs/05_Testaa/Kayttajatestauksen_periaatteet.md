@@ -1,8 +1,5 @@
 # Käyttäjätestauksen periaatteet
 
-**Prosessin vaihe:** 05 Testaa
-**Liittyy:** [[Prototypoinnin periaatteet]], [[Palautteen kerääminen ja analysointi]], [[Iterointi]]
-
 ---
 
 ## Määritelmä
@@ -63,10 +60,6 @@ Kirjaston nuorten tilan pahvimalli: nuorille annetaan tehtävä "Etsi paikka, jo
 ## Yhteenveto omin sanoin
 
 Testaus tarkoittaa ratkaisun kokeilemista käyttäjillä oppimistavoitteen kanssa. Havainnointi kertoo enemmän kuin kysely.
-
-## Avoimet kysymykset
-
--
 
 ## Lähteet
 

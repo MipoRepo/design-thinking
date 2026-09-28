@@ -1,8 +1,5 @@
 # Prosessimallit
 
-**Prosessin vaihe:** 00 Perusteet
-**Liittyy:** [[Design thinking perusteet]], [[Periaatteet ja ajattelutapa]], [[Empatisoi]], [[Määrittele]], [[Ideoi]], [[Prototypoi]], [[Testaa]]
-
 ---
 
 ## Määritelmä
@@ -122,10 +119,6 @@ Kirjaston palvelujen kehittäminen d.school-mallilla: haastatellaan kävijöitä
 ## Yhteenveto omin sanoin
 
 Prosessimallit jäsentävät design thinkingin vaiheiksi, mutta perusajatus on kaikissa sama: ymmärrä ihmisiä, määrittele oikea ongelma, tuota ja kokeile ratkaisuja ja paranna palautteen perusteella. Malli on työkalu, ei sääntö.
-
-## Avoimet kysymykset
-
--
 
 ## Lähteet
 

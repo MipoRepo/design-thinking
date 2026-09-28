@@ -1,8 +1,5 @@
 # Menetelmät ja työkalut -taulukko
 
-**Prosessin vaihe:** 06 Yhteenveto
-**Liittyy:** kaikki vaiheiden muistiinpanot
-
 ---
 
 ## Käyttö
@@ -69,7 +66,3 @@ Nopea hakuteos: mikä menetelmä, mihin vaiheeseen, mihin tarkoitukseen ja millo
 ## Yhteenveto omin sanoin
 
 Jokaiseen vaiheeseen kuuluu omat menetelmänsä, ja niistä valitaan sopivat tilanteen ja oppimistavoitteen mukaan.
-
-## Avoimet kysymykset
-
--

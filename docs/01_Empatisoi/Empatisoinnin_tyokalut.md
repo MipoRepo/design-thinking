@@ -1,8 +1,5 @@
 # Empatisoinnin työkalut
 
-**Prosessin vaihe:** 01 Empatisoi (→ 02 Määrittele)
-**Liittyy:** [[Empatisoinnin menetelmät]], [[Tiedon synteesi ja analyysi]], [[Ongelmalause]]
-
 ---
 
 ## Määritelmä
@@ -99,10 +96,6 @@ Opiskelijoiden ruokailun tutkimus: empatiakartta paljastaa, että opiskelija *sa
 ## Yhteenveto omin sanoin
 
 Empatiakartta, persoona ja asiakaspolku muuttavat haastatteluista ja havainnoista kerätyn tiedon visuaaliseksi, jaettavaksi ymmärrykseksi käyttäjistä.
-
-## Avoimet kysymykset
-
--
 
 ## Lähteet
 

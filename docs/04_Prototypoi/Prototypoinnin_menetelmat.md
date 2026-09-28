@@ -1,8 +1,5 @@
 # Prototypoinnin menetelmät
 
-**Prosessin vaihe:** 04 Prototypoi
-**Liittyy:** [[Prototypoinnin periaatteet]], [[Prototyyppien tyypit ja tarkkuustasot]], [[Käyttäjätestauksen periaatteet]]
-
 ---
 
 ## Määritelmä
@@ -99,10 +96,6 @@ Kirjaston nuorten tila: storyboard kuvaa nuoren vierailun, roolileikissä kokeil
 ## Yhteenveto omin sanoin
 
 Paperiprototyyppi, storyboard, roolileikki ja wireframe ovat nopeita ja halpoja tapoja tehdä ideasta testattava. Menetelmä valitaan sen mukaan, mitä halutaan oppia.
-
-## Avoimet kysymykset
-
--
 
 ## Lähteet
 

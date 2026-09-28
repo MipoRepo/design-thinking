@@ -1,8 +1,5 @@
 # Empatisoinnin menetelmät
 
-**Prosessin vaihe:** 01 Empatisoi
-**Liittyy:** [[Empatian merkitys]], [[Empatisoinnin työkalut]], [[Tiedon synteesi ja analyysi]]
-
 ---
 
 ## Määritelmä
@@ -110,10 +107,6 @@ Kerätä tietoa laajalta joukolta tai vahvistaa haastattelujen ja havaintojen po
 ## Yhteenveto omin sanoin
 
 Empatisoinnissa yhdistetään haastattelu, havainnointi, shadowing ja kyselyt, jotta saadaan sekä sanottu että tehty ja niiden ero näkyviin.
-
-## Avoimet kysymykset
-
--
 
 ## Lähteet
 

@@ -1,8 +1,5 @@
 # Ideoinnin menetelmät
 
-**Prosessin vaihe:** 03 Ideoi
-**Liittyy:** [[Divergentti ja konvergentti ajattelu]], [[Ideoiden valinta ja priorisointi]], [[Ongelmalause]]
-
 ---
 
 ## Määritelmä
@@ -119,10 +116,6 @@ HMW: *Miten voisimme saada nuoret tuntemaan kirjaston omakseen?* Crazy 8s tuotta
 ## Yhteenveto omin sanoin
 
 Brainstorming, SCAMPER, Crazy 8s ja mind map ovat eri tapoja tuottaa paljon ideoita. Yhteistä on määrän painottaminen ja arvostelun lykkääminen.
-
-## Avoimet kysymykset
-
--
 
 ## Lähteet
 

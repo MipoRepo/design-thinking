@@ -1,8 +1,5 @@
 # Periaatteet ja ajattelutapa
 
-**Prosessin vaihe:** 00 Perusteet
-**Liittyy:** [[Design thinking perusteet]], [[Prosessimallit]], [[Empatisoi]], [[Prototypoi]], [[Testaa]]
-
 ---
 
 ## Määritelmä
@@ -103,10 +100,6 @@ Kouluruokailun kehittämisessä tiimi (opettaja, ravitsemusasiantuntija, oppilai
 ## Yhteenveto omin sanoin
 
 Design thinkingin ydin on ajattelutapa: ymmärrä ihmisiä (ihmiskeskeisyys), opi kokeilemalla ja parantamalla (iteratiivisuus) ja hyödynnä eri näkökulmia (yhteistyö).
-
-## Avoimet kysymykset
-
--
 
 ## Lähteet
 

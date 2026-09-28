@@ -1,8 +1,5 @@
 # Prototyyppien tyypit ja tarkkuustasot
 
-**Prosessin vaihe:** 04 Prototypoi
-**Liittyy:** [[Prototypoinnin periaatteet]], [[Prototypoinnin menetelmät]], [[Palautteen kerääminen ja analysointi]]
-
 ---
 
 ## Määritelmä
@@ -63,10 +60,6 @@ Kirjaston nuorten tilan idea: ensin pahvimalli ja roolileikki (matala), sitten p
 ## Yhteenveto omin sanoin
 
 Aloita karkealla prototyypillä ja lisää tarkkuutta vasta, kun tiedät, että idea on oikea. Tarkkuus valitaan sen mukaan, mitä halutaan oppia.
-
-## Avoimet kysymykset
-
--
 
 ## Lähteet
 

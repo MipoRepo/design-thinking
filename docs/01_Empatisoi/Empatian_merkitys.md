@@ -1,8 +1,5 @@
 # Empatian merkitys
 
-**Prosessin vaihe:** 01 Empatisoi
-**Liittyy:** [[Empatisoinnin menetelmät]], [[Empatisoinnin työkalut]], [[Periaatteet ja ajattelutapa]], [[Tiedon synteesi ja analyysi]]
-
 ---
 
 ## Määritelmä
@@ -56,10 +53,6 @@ Vanhusten kotihoidon kehittämisessä tiimi seuraa hoitajan päivää ja käy as
 ## Yhteenveto omin sanoin
 
 Empatisointi tarkoittaa ihmisten todellisen tilanteen ymmärtämistä ennen kuin ratkaisuja aletaan kehittää. Se ohjaa prosessin oikeaan ongelmaan.
-
-## Avoimet kysymykset
-
--
 
 ## Lähteet
 

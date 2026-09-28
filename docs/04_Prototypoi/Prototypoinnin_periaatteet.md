@@ -1,8 +1,5 @@
 # Prototypoinnin periaatteet
 
-**Prosessin vaihe:** 04 Prototypoi
-**Liittyy:** [[Prototyyppien tyypit ja tarkkuustasot]], [[Prototypoinnin menetelmät]], [[Käyttäjätestauksen periaatteet]]
-
 ---
 
 ## Määritelmä
@@ -55,10 +52,6 @@ Ennen tekemistä pohdi:
 ## Yhteenveto omin sanoin
 
 Prototypointi tarkoittaa ideoiden tekemistä näkyviksi ja testattaviksi nopeasti ja halvalla, jotta opitaan ennen kuin sitoudutaan.
-
-## Avoimet kysymykset
-
--
 
 ## Lähteet
 

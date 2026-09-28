@@ -1,8 +1,5 @@
 # Käsitteet ja sanasto
 
-**Prosessin vaihe:** 06 Yhteenveto
-**Liittyy:** kaikki muistiinpanot
-
 ---
 
 ## A-Ö
@@ -52,7 +49,3 @@
 | **Haluttavuus** (desirability) | Haluavatko ihmiset tätä? |
 | **Toteutettavuus** (feasibility) | Onko se mahdollista? |
 | **Kannattavuus** (viability) | Onko se kestävä? |
-
-## Avoimet kysymykset
-
--

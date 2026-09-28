@@ -18,9 +18,9 @@
 - [x] 11. Luo `.gitignore`
 - [x] 12. Poista `.claude-ignore/`-kansio
 - [x] 13. `mkdocs build` onnistuu paikallisesti
-- [ ] 14. `git add . && git commit -m "..."`
-- [ ] 15. Lisää remote `git@github.com:MipoRepo/design-thinking.git`
-- [ ] 16. `git push -u origin main`
+- [x] 14. `git add . && git commit -m "..."`
+- [x] 15. Lisää remote `git@github.com:MipoRepo/design-thinking.git`
+- [x] 16. `git push -u origin main`
 
 ## Jatko (virhetilanteissa)
 

@@ -1,8 +1,5 @@
 # Divergentti ja konvergentti ajattelu
 
-**Prosessin vaihe:** 03 Ideoi (koko prosessi)
-**Liittyy:** [[Ideoinnin menetelmät]], [[Ideoiden valinta ja priorisointi]], [[Prosessimallit]]
-
 ---
 
 ## Määritelmä
@@ -60,10 +57,6 @@ Testaa:      laajenna (palaute) → kavenna (päätökset)
 ## Yhteenveto omin sanoin
 
 Ensin avataan mahdollisuuksia mahdollisimman laajasti, sitten valitaan niistä parhaat kriteerien mukaan. Tärkeintä on pitää vaiheet erillään.
-
-## Avoimet kysymykset
-
--
 
 ## Lähteet
 

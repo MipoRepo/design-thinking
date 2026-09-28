@@ -1,8 +1,5 @@
 # Ideoiden valinta ja priorisointi
 
-**Prosessin vaihe:** 03 Ideoi
-**Liittyy:** [[Ideoinnin menetelmät]], [[Divergentti ja konvergentti ajattelu]], [[Prototypoinnin periaatteet]]
-
 ---
 
 ## Määritelmä
@@ -72,10 +69,6 @@ Kirjaston ideoita: nuorten oma huone, hiljaisuussääntöjen uudistus, kirjaston
 ## Yhteenveto omin sanoin
 
 Valinta tehdään kriteerien avulla ja käyttäjän tarve edellä. Matriisit ja äänestys tekevät päätöksenteosta läpinäkyvää.
-
-## Avoimet kysymykset
-
--
 
 ## Lähteet
 

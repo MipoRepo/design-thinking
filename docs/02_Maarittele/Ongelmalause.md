@@ -1,8 +1,5 @@
 # Ongelmalause (POV ja "Miten voisimme...")
 
-**Prosessin vaihe:** 02 Määrittele
-**Liittyy:** [[Tiedon synteesi ja analyysi]], [[Käyttäjätarpeet ja oivallukset]], [[Ideoinnin menetelmät]]
-
 ---
 
 ## Määritelmä
@@ -65,10 +62,6 @@ POV-lauseesta johdettu avoin kysymys, joka kääntää ongelman ideoinnin läht�
 ## Yhteenveto omin sanoin
 
 Ongelmalause tiivistää käyttäjän tarpeen ja oivalluksen yhteen lauseeseen, ja HMW-kysymys kääntää sen ideoinnin lähtökohdaksi.
-
-## Avoimet kysymykset
-
--
 
 ## Lähteet
 
