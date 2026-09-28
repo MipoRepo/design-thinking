@@ -4,16 +4,16 @@ Jamkin design thinkingin kurssimateriaali, julkaistu MkDocs Material -teeman avu
 
 ## Mitä sivustolla on?
 
-Sivusto sisältää kurssin materiaalin kuudella pääosiona, jotka vastaavat design thinking -prosessin vaiheita:
+Sivusto sisältää kurssin materiaalin seitsemän pääosiona, jotka vastaavat design thinking -prosessin vaiheita sekä InnoFlash-kurssia:
 
 - **Perusteet** – design thinkingin periaatteet ja ajattelutapa
 - **Empatisoi** – käyttäjän ymmärtäminen ja tarpeidensa kartoittaminen
 - **Määrittele** – ongelman muotoilu ja tiedon synteesi
 - **Ideoi** – luovien ratkaisujen kehittäminen
-- **Prototypoi** – prototyyppien luominen ja testaus
+- **Prototypoi** – prototyypien luominen ja testaus
+- **Testaa** – ratkausten testaaminen ja palautteen analysointi
 - **Yhteenveto** – menetelmät ja työkalut yhtenä paketina
-
-Lisäksin on erillinen osio **InnoFlash2022**, jossa on kuvaus InnoFlash-kurssista sekä Tiimin 28 karpalokohtauksesta.
+- **InnoFlash2022** – InnoFlash-kurssin kuvaus ja Tiimin 28 karpalokohtauksesta
 
 ## Timen kunnianomistajat
 
