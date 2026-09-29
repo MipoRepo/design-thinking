@@ -6,7 +6,7 @@ InnoFlash on nykyisin viisi kertaa vuodessa järjestettävä Jamk Future Factory
 
 - Työskentely yhdistää vapaan ja monimuotoisen ideoinnin systemaattiseen lähestymistapaan sekä iteratiiviseen, vaiheittain tarkentuvaan toteutukseen.
 - Eri koulutusalojen opiskelijoista koostuva monialainen tiimi tuottaa parempia ratkaisuja kuin yhden alan osaaminen yksinään
-- Nopea protottypointi ja testaus auttavat kasvamaan ideoista todellisia ratkaisuja
+- Nopea prototyypointi ja testaus auttavat kasvamaan ideoista todellisia ratkaisuja
 
 ## Opiskelijan rooli
 
@@ -33,7 +33,7 @@ Laaditut ratkaisut vastaavat suoraan toimeksiantajan tarpeeseen erottua vetovoim
 
 ## Asiakasymmärrys: Lähihoitaja Pirjo
 
-Kaikki kehitetyt ratkaisukonsernit pohjautuvat asiakastutkimukseen ja sen perusteella luotuun kohderyhmäprofiiliin:
+Kaikki kehitetyt ratkaisukonseptit pohjautuvat asiakastutkimukseen ja sen perusteella luotuun kohderyhmäprofiiliin:
 
 * **Profiili:** Pirjo on vastavalmistunut lähihoitaja, joka suunnittelee muuttoa idylliselle pikkupaikkakunnalle puolisonsa kanssa.
 * **Motiivit:** Merkityksellinen ja mielekäs työ, hyvä palkkaus, sosiaalinen ja kannustava työyhteisö, hyvää johtaminen sekä puolisolle löytyvät työllistymismahdollisuudet ja monipuoliset vapaa-ajan palvelut.
