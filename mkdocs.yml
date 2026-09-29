@@ -8,7 +8,7 @@ theme:
   logo: assets/images/logo.png
   icon:
     repo: fontawesome/brands/github
-
+copyright: '© 2026 <a href="https://miporepo.github.io/miporeposite/">Mikko Pohjola</a>. All rights reserved.'
 features:
   - navigation.tabs
   - navigation.tabs_sticky
@@ -57,10 +57,7 @@ nav:
       - Prosessin tiivistelmä: 06_Yhteenveto/Prosessin_tiivistelma.md
   
 extra:
-  footer: >-
-    <a href="https://miporepo.github.io/miporeposite/">© 2026 Mikko Pohjola — My portfolio</a>
-
-  palette:
+ palette:
     - scheme: default
       primary: indigo
       accent: indigo
