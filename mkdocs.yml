@@ -57,9 +57,9 @@ nav:
       - Prosessin tiivistelmä: 06_Yhteenveto/Prosessin_tiivistelma.md
   
 extra:
+  extra:
   footer: >-
-    Mikko Pohjola @ 2026 —
-    <a href="https://miporepo.github.io/miporeposite/">https://miporepo.github.io/miporeposite/</a>
+    <a href="https://miporepo.github.io/miporeposite/">© 2026 Mikko Pohjola — My portfolio</a>
   palette:
     - scheme: default
       primary: indigo
