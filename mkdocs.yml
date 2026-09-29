@@ -59,6 +59,7 @@ nav:
 extra:
   footer: >-
     <a href="https://miporepo.github.io/miporeposite/">© 2026 Mikko Pohjola — My portfolio</a>
+
   palette:
     - scheme: default
       primary: indigo
@@ -66,12 +67,14 @@ extra:
       toggle:
         icon: material/toggle-switch-off-outline
         name: Switch to dark mode
+
     - scheme: slate
       primary: indigo
       accent: indigo
       toggle:
         icon: material/toggle-switch
         name: Switch to light mode
+
 
 markdown_extensions:
   - admonition
