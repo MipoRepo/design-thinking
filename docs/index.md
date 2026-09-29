@@ -1,4 +1,4 @@
-<img src="assets/images/designthinking_hero.png" alt="Design Thinking Hero" style="width: 70%; display: block; margin: 0 auto;">
+<img src="assets/images/designthinking_hero.jpg" alt="Design Thinking Hero" style="width: 70%; display: block; margin: 0 auto;">
 
 ---
 
